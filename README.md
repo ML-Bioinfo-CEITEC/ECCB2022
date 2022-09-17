@@ -17,4 +17,4 @@ https://docs.google.com/presentation/d/1zAcJcWtyA-kh7AP_Hy_7OuzjQigppFaG74hLejJV
 
 4. **Exercise 4**: Gradio demo [[open]](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2022/blob/main/notebooks/04_Gradio_app_and_HF_spaces.ipynb)
 
-5. **Extra exercise** (not presented during the tutorial): CNN for genomic sequences - basics[[open]](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2022/blob/main/notebooks/05a_CNN_for_sequences_basics.ipynb), fastai [[open]]https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2022/blob/main/notebooks/05b_CNN_for_sequences_fastai.ipynb)
+5. **Extra exercise** (not presented during the tutorial): CNN for genomic sequences - basics [[open]](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2022/blob/main/notebooks/05a_CNN_for_sequences_basics.ipynb), fastai [[open]](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2022/blob/main/notebooks/05b_CNN_for_sequences_fastai.ipynb)
