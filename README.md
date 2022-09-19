@@ -23,7 +23,7 @@ https://docs.google.com/presentation/d/1zAcJcWtyA-kh7AP_Hy_7OuzjQigppFaG74hLejJV
 
 Where to go next:
 
-1. **Fast.ai** - [course](https://course.fast.ai/), [library](https://docs.fast.ai/)
+1. **Fast.ai** - [course](https://course.fast.ai/), [book](https://github.com/fastai/fastbook), [library](https://docs.fast.ai/)
 
 2. 🤗 - [course](https://huggingface.co/course/chapter1/1), [datasets](https://huggingface.co/datasets), [models](https://huggingface.co/models), [spaces](https://huggingface.co/spaces), [libraries](https://huggingface.co/docs)
 
@@ -36,3 +36,5 @@ Where to go next:
     - [AlphaFold2 paper](https://www.nature.com/articles/s42003-022-03269-0)
     - [ESM2 paper](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1) - language model trained on proteome
     - [ML Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/schedule)
+
+6. [Navigating the pitfalls of applying machine learning in genomics](https://www.nature.com/articles/s41576-021-00434-9)
