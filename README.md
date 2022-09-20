@@ -15,7 +15,7 @@ https://docs.google.com/presentation/d/1zAcJcWtyA-kh7AP_Hy_7OuzjQigppFaG74hLejJV
 
 3. **Exercise 3**: Transformers and transfer learning [[open]](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2022/blob/main/notebooks/03_Transformers_and_transfer_learning.ipynb)
 
-4. **Exercise 4**: Gradio demo [[open]](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2022/blob/main/notebooks/04_Gradio_app_and_HF_spaces.ipynb)
+4. **Exercise 4**: Gradio demo on sequences [[open]](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2022/blob/main/notebooks/04a_Gradio_promoter_classifier.ipynb) and images [[open]](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2022/blob/main/notebooks/04b_Gradio_app_and_HF_spaces.ipynb)
 
 5. **Extra exercise** (not presented during the tutorial): CNN for genomic sequences - basics [[open]](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2022/blob/main/notebooks/05a_CNN_for_sequences_basics.ipynb), fastai [[open]](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2022/blob/main/notebooks/05b_CNN_for_sequences_fastai.ipynb)
 
